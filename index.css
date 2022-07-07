@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: #1C1C1C;
     text-align: left;
+    font-family: 'Inter', sans-serif;
 }
 
 h1,
@@ -28,6 +29,7 @@ h4 {
     line-height: 40px;
     letter-spacing: -0.025em;
     color: #FFFFFF;
+    font-family: 'Karla', sans-serif;    
 }
 
 .unique {
@@ -55,7 +57,6 @@ h4 {
     border-radius: 6px;
     border: none;
     margin-bottom: 35px;
-    font-family: inter;
 }
 
 .input-wrapper {
@@ -74,6 +75,7 @@ h4 {
     line-height: 32px;
     color: #55F991;
     text-align: center;
+    max-width: 212px;
     padding: 4px 16px 3px 15px;
 }
 
